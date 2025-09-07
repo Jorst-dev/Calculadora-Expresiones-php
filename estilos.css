@@ -1,0 +1,30 @@
+body { 
+    font-family: Arial, sans-serif; 
+    max-width: 600px; 
+    margin: 40px auto; 
+}
+
+input[type=text]{ 
+    width: 100%; 
+    padding: 10px; 
+    font-size: 1rem; 
+}
+
+button{ 
+    padding: 10px 14px; 
+    font-size: 1rem; 
+    margin-top: 10px; 
+}
+
+.ok { 
+    background: #f0fff4; 
+    border: 1px solid #b7f0c0; 
+    padding: 10px; 
+}
+
+.err { 
+    background: #fff5f5; 
+    border: 1px solid #ffcaca; 
+    padding: 10px; 
+    color: #b00020; 
+}
